@@ -1,0 +1,19 @@
+
+
+*{
+    background-color: rgb(191, 191, 247);
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 100px;
+    animation: 3s linear 1s infinite alternate slidein;
+}
+
+.img-news {
+    
+    margin-left: 100px;
+    width:1000px;
+    height:800px;
+}
