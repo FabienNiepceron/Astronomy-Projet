@@ -1,0 +1,7 @@
+ul.nav-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: red;
+    font-weight: 200;
+}
