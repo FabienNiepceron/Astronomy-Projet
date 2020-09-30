@@ -1,8 +1,10 @@
 
 
-*{
-    background-color: rgb(191, 191, 247);
+body{
+    background-image: url("https://www.lemonde.fr/blog/autourduciel/wp-content/uploads/sites/37/2018/09/20180910-Reflets-lac-des-Pises-2000.jpg");
+    color:white
 }
+
 
 h1 {
 
@@ -10,10 +12,23 @@ h1 {
     font-size: 100px;
     animation: 3s linear 1s infinite alternate slidein;
 }
+h2{
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue; ;
+}
 
 .img-news {
-    
-    margin-left: 100px;
-    width:1000px;
-    height:800px;
+    margin-left: 30%;
+    padding: 20px;
+    width:40%;
+    height:500px;
+}
+.text-container { 
+    margin-left: 30%;
+    padding: 20px; 
+    width: 700px;
+    color: white;
+ 
+   
 }
