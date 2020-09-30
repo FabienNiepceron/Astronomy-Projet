@@ -1,0 +1,29 @@
+header {
+    padding-top:1px;
+    padding-bottom: 100px;
+    background-color: black;
+    background-image: url("/home/ingrid/Wild -Code-School/Astronomy-Projet/Image-galerie/pexels-frank-cone-4555142.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-origin: content-box;
+
+}
+
+header h1 {color: yellow;}
+
+ul.nav-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: red;
+    font-weight: 200;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
