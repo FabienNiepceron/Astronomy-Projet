@@ -1,0 +1,59 @@
+body {
+    margin:2px 5px 2em 0;
+}
+
+section {
+    display:flex;
+    justify-content: center;
+
+}
+
+.img-apollo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-Odyssey-de-lespace {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-Etoffe-des-héros {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-gravity {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.img-interstellar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align:center;
+    font-size:40px;
+}
