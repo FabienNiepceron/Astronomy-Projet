@@ -12,12 +12,21 @@ h1 {
     font-size: 100px;
     animation: 3s linear 1s infinite alternate slidein;
 }
+#fusee{
+    width:23%;
+    height: 1100px;
+}
+
 h2{
     color: white;
     text-align: center;
-    text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue; ;
+    text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue;
 }
+#img-spacex {
+    width:40%;
+    height:700px;
 
+}
 .img-news {
     margin-left: 30%;
     padding: 20px;
@@ -25,6 +34,7 @@ h2{
     height:500px;
 }
 .text-container { 
+    font: 1.2em "Fira Sans", sans-serif;
     margin-left: 30%;
     padding: 20px; 
     width: 700px;
