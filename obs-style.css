@@ -1,6 +1,6 @@
 article.obs{
     position: absolute;
-    left: 35%;
+    left: 15%;
 
 }
 h1{
@@ -11,7 +11,7 @@ h1{
 .contenu {
     padding: 10px;
     text-align: center;
-    max-width: 50%;
+    max-width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -19,7 +19,9 @@ h1{
     background-color: rgb(49, 47, 47);
     
 }
+
 h2{color:white;}
+  
 p.texte {
     padding-bottom: 50px;
     color: white;
