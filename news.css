@@ -6,7 +6,7 @@ body{
 }
 header {
     padding-top:1px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
    
     background-image: url("https://www.tntv.pf/tntv/wp-content/uploads/2020/03/milky-way-2675322_1280-696x392.jpg");
     background-repeat: no-repeat;
@@ -18,59 +18,73 @@ li{
     font-size: 25px;
 }
 
-header h1 {color: yellow;}
+header h1 {    
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue;}
 
 ul.nav-menu{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    color:Yellow;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue;
     font-weight: 200;
     padding: 20px;
     background-image: url("https://www.tntv.pf/tntv/wp-content/uploads/2020/03/milky-way-2675322_1280-696x392.jpg");
     list-style: none;
 }
-#galaxy{
-    height: 500px;
-    width: 100%;
- 
-}
 
 h1 {
-
     text-align: center;
     font-size: 100px;
     animation: 3s linear 1s infinite alternate slidein;
 }
+
 #fusee{
-    width:23%;
+    width:28%;
     height: 1100px;
 }
-.titre{
-    font-size: 40px;
+
+div{
+  background-color: rgb(58, 97, 168);
+  margin-left: 200px;
+  margin-right: 200px;
 }
+
 h2{
+  font-size: 60px;
     color: white;
     text-align: center;
     text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue;
+    margin-bottom: 100px;
+    margin-top: 5px;
+}
+h3{
+  font-size: 40px;
+  color: white;
+    text-align: center;
+    text-shadow: 1px 1px 2px white, 0 0 1em blue, 0 0 0.2em blue;
+  padding-top: 60px;
 }
 #img-spacex {
     width:40%;
-    height:700px;
+    height:800px;
 
 }
 .img-news {
-    margin-left: 30%;
-    padding: 20px;
-    width:40%;
-    height:500px;
+   text-align: center;
+   height: 500px;
+   width: 721px;
+   padding-right: 20%;
+   padding-left: 20%;
 }
 .text-container { 
-    font: 1.2em "Fira Sans", sans-serif;
-    margin-left: 30%;
-    padding: 20px; 
-    width: 700px;
-    color: white;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 40px;
  
    
 }
